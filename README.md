@@ -1,12 +1,19 @@
 # Super-resolution-Sodium-MRI
 
 Purpose               : Generate a high-resolution sodium image from a low-resolution acquisition
+
 Input                 : 3 high-resolution proton maps (T1, T2, proton density) and 1 low-resolution sodium image (sodium density) 
+
 Output                : 1 High resolution sodium image
+
 Contact               : gonzalo.rodriguez@nyulangone.org / guillaume.madelin@nyulangone.org
+
 Affiliation           : Center for Biomedical Imaging, Radiology Department, New York University Grossman School of Medicine
+
 MATLAB version        : R2021a 
+
 Date                  : 2022/08
+
 Reference	            : Gonzalo G Rodriguez,et al. A method to increase the resolution of sodium images  from simultaneous 1H MRF/23Na MRI, 2022 Joint Annual                           Meeting ISMRM-ESMRMB & ISMRT 31st Annual Meeting, London, 2022. 
              
 
