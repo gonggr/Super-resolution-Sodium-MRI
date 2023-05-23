@@ -14,7 +14,7 @@ MATLAB version : R2021a
 
 Date           : 2022/08
 
-References	   : G.G. Rodriguez,et al.  Super-resolution of sodium images from simultaneous 1 H MRF/23 Na MRI acquisition. NMR in Biomedicine, 2023. 
+References	   : G.G. Rodriguez,et al.  Super-resolution of sodium images from simultaneous 1 H MRF/23 Na MRI acquisition. NMR in Biomed. 2023. 
                  G.G Rodriguez,et al. A method to increase the resolution of sodium images  from simultaneous 1H MRF/23Na MRI, 2022 Joint Annual                        Meeting ISMRM-ESMRMB & ISMRT 31st Annual Meeting, London, 2022. 
              
 
